@@ -55,9 +55,9 @@ npm run start
 
 ## API Endpoints
 
-- POST :** /signup **: Create a new user. 
-- POST :** /login **:  Login into account.
-- GET  :**  /  **:  Get account details.
+- POST :`` /signup ``: Create a new user. 
+- POST :`` /login ``:  Login into account.
+- GET  :``  /  ``:  Get account details.
 
 API requests and responses should be in JSON format.
 
