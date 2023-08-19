@@ -27,5 +27,4 @@ exports.authenticateUser = async (req,res,next) => {
             message: error.message
         })   
     }
-
 }
