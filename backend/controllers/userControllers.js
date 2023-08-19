@@ -5,7 +5,6 @@ const JWT = require("jsonwebtoken")
 const e = require("express");
 
 
-
 const signUp = async (req,res) => {
     
     try {
