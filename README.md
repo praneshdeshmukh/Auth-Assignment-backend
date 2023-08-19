@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 3. Navigate to the project directory:
 ```terminal
-  cd Express-JS/backend
+  cd backend
 ```
 
 5. Install the dependencies:
