@@ -16,4 +16,3 @@ const loginDataValidate = (req,res,next) => {
 
 module.exports = loginDataValidate;
 
-
